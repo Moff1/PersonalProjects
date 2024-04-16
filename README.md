@@ -8,3 +8,5 @@ This purpose of this project was to perform an analyis on my Spotify data from t
 - SpotifyDataAnalysisLibraryData
 - SpotifyModelFile
 - NLP Model File
+
+If you have any questions (or just want to reach out) please feel free to email me at jamoffatt.411@gmail.com
