@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "prompt": "Don\u2019t hate me if I",
+        "type": "text",
+        "text": "say I work at Deloitte",
+        "user_updated": "2023-09-18 00:08:54.818807",
+        "created": "2022-12-07 01:39:44.890948"
+    },
+    {
+        "id": 2,
+        "prompt": "First round is on me if",
+        "type": "text",
+        "text": "we are drinking tequila",
+        "user_updated": "2023-01-02 18:38:08.484859",
+        "created": "2022-12-07 01:39:44.890948"
+    },
+    {
+        "id": 3,
+        "prompt": "I\u2019ll pick the topic if you start the conversation",
+        "type": "text",
+        "text": "What is the one thing that makes you you?",
+        "user_updated": "2022-12-07 01:39:53.014751",
+        "created": "2022-12-07 01:39:44.890948"
+    },
+    {
+        "id": 4,
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "type": "text",
+        "text": "Went to Las Vegas for less than 24 hours",
+        "user_updated": "2023-05-25 17:58:24.998166",
+        "created": "2022-12-07 01:39:44.890948"
+    },
+    {
+        "id": 5,
+        "prompt": "My most irrational fear",
+        "type": "text",
+        "text": "Getting crushed by a semi truck when a strong gust of winds blows on the highway",
+        "user_updated": "2023-05-15 15:58:19.950508",
+        "created": "2022-12-07 01:39:44.890948"
+    },
+    {
+        "id": 6,
+        "prompt": "Most spontaneous thing I\u2019ve done",
+        "type": "text",
+        "text": "Went downtown with exactly 35 dollars in my bank account",
+        "user_updated": "2022-12-07 01:39:53.014751",
+        "created": "2022-12-07 01:39:44.890948"
+    },
+    {
+        "id": 7,
+        "prompt": "The way to win me over is",
+        "type": "text",
+        "text": "if you can duet \u201cNo Air\u201d with me",
+        "user_updated": "2023-06-24 01:50:16.745584",
+        "created": "2022-12-07 01:39:44.890948"
+    },
+    {
+        "id": 8,
+        "prompt": "The way to win me over is",
+        "type": "text",
+        "text": "if you know \u201cNo Air\u201d word for word",
+        "user_updated": "2023-01-03 04:11:33.232049",
+        "created": "2022-12-07 01:39:44.890948"
+    },
+    {
+        "id": 9,
+        "prompt": "The way to win me over is",
+        "type": "text",
+        "text": "Singing at the top of your lungs to your favorite song",
+        "user_updated": "2022-12-07 01:39:51.004484",
+        "created": "2022-12-07 01:39:44.890948"
+    }
+]
